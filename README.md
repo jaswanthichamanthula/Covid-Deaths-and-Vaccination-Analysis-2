@@ -33,7 +33,7 @@ This project analyzes the relationship between **Covid-19 deaths** and **vaccina
    python covid_analysis.py
    ```
 
-## 📊 Sample Analysis
+## Sample Analysis
 - Total deaths per country
 - Vaccination rate vs. death rate
 - Trends over time
